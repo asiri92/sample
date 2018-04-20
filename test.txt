@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 sample text
-=======
-sample text
->>>>>>> testing
+
